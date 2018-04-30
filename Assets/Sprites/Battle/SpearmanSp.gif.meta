@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: dadb033627056f34cabd5d974ed4d66e
+timeCreated: 1474165453
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: s_idle
+    21300002: s_walk1
+    21300004: s_walk2
+    21300006: s_walk3
+    21300008: s_attack3
+    21300010: s_attack1
+    21300012: s_attack2
+    21300014: s_attack4
+    21300016: s_attack5
+    21300018: s_attack6
+    21300020: sp_cheer
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: s_idle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 182
+        width: 26
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: s_walk1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 184
+        width: 41
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: s_walk2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 184
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: s_walk3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 183
+        width: 42
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: s_attack3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 181
+        width: 59
+        height: 33
+      alignment: 9
+      pivot: {x: 0.26584068, y: 0.008907434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: s_attack1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 76
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.66489595, y: 0.007944674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: s_attack2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 78
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.64370626, y: 0.015388283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: s_attack4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 72
+        width: 26
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: s_attack5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 43
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5615234, y: 0.026089026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: s_attack6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 10
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5753706, y: 0.018999735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sp_cheer
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 128
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 54c447dac50446546bf8d692372f2323
+timeCreated: 1474166195
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: k_idle
+    21300002: eagler_paladin_lance_1
+    21300004: eagler_paladin_lance_2
+    21300006: eagler_paladin_lance_3
+    21300008: eagler_paladin_lance_4
+    21300010: k_attack1
+    21300012: k_attack2
+    21300014: eagler_paladin_lance_7
+    21300016: k_attack3
+    21300018: k_attack4
+    21300020: eagler_paladin_lance_10
+    21300022: eagler_paladin_lance_11
+    21300024: eagler_paladin_lance_12
+    21300026: eagler_paladin_lance_13
+    21300028: eagler_paladin_lance_14
+    21300030: eagler_paladin_lance_15
+    21300032: eagler_paladin_lance_16
+    21300034: eagler_paladin_lance_17
+    21300036: eagler_paladin_lance_18
+    21300038: eagler_paladin_lance_19
+    21300040: eagler_paladin_lance_20
+    21300042: eagler_paladin_lance_21
+    21300044: eagler_paladin_lance_22
+    21300046: eagler_paladin_lance_23
+    21300048: eagler_paladin_lance_24
+    21300050: eagler_paladin_lance_25
+    21300052: eagler_paladin_lance_26
+    21300054: eagler_paladin_lance_27
+    21300056: eagler_paladin_lance_28
+    21300058: eagler_paladin_lance_29
+    21300060: eagler_paladin_lance_30
+    21300062: eagler_paladin_lance_31
+    21300064: eagler_paladin_lance_32
+    21300066: eagler_paladin_lance_33
+    21300068: eagler_paladin_lance_34
+    21300070: eagler_paladin_lance_35
+    21300072: eagler_paladin_lance_36
+    21300074: eagler_paladin_lance_37
+    21300076: eagler_paladin_lance_38
+    21300078: eagler_paladin_lance_39
+    21300080: eagler_paladin_lance_40
+    21300082: eagler_paladin_lance_41
+    21300084: eagler_paladin_lance_42
+    21300086: eagler_paladin_lance_43
+    21300088: eagler_paladin_lance_44
+    21300090: eagler_paladin_lance_45
+    21300092: k_charge1
+    21300094: k_charge2
+    21300096: k_charge3
+    21300098: eagler_paladin_lance_49
+    21300100: k_charge4
+    21300102: k_charge5
+    21300104: eagler_paladin_lance_52
+    21300106: eagler_paladin_lance_53
+    21300108: eagler_paladin_lance_54
+    21300110: eagler_paladin_lance_55
+    21300112: eagler_paladin_lance_56
+    21300114: eagler_paladin_lance_57
+    21300116: eagler_paladin_lance_58
+    21300118: eagler_paladin_lance_59
+    21300120: eagler_paladin_lance_60
+    21300122: eagler_paladin_lance_61
+    21300124: eagler_paladin_lance_62
+    21300126: eagler_paladin_lance_63
+    21300128: eagler_paladin_lance_64
+    21300130: eagler_paladin_lance_65
+    21300132: eagler_paladin_lance_66
+    21300134: eagler_paladin_lance_67
+    21300136: eagler_paladin_lance_68
+    21300138: eagler_paladin_lance_69
+    21300140: k_attack5
+    21300142: k_cheer1
+    21300144: k_cheer2
+    21300146: k_cheer3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: k_idle
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 662
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k_attack1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 663
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k_attack2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 659
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k_attack3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 588
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k_attack4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 587
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k_charge1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 233
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k_charge2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 235
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k_charge3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 234
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k_charge4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 236
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k_charge5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 235
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k_attack5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 369
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k_cheer1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 154
+        width: 67
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6162098, y: 0.5164955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k_cheer2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 155
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: k_cheer3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 158
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 6037f41fb0206e448bc2d718423c91ca
+timeCreated: 1474165832
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wil_archer_bow_0
+    21300002: wil_archer_bow_1
+    21300004: wil_archer_bow_2
+    21300006: wil_archer_bow_3
+    21300008: wil_archer_bow_10
+    21300010: wil_archer_bow_11
+    21300012: wil_archer_bow_12
+    21300014: wil_archer_bow_13
+    21300016: wil_archer_bow_14
+    21300018: wil_archer_bow_15
+    21300020: wil_archer_bow_16
+    21300022: wil_archer_bow_17
+    21300024: a_cheer1
+    21300026: a_cheer2
+    21300028: a_cheer3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wil_archer_bow_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5998709, y: 0.006485421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wil_archer_bow_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 145
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wil_archer_bow_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 145
+        width: 29
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4765196, y: 0.006485421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wil_archer_bow_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 145
+        width: 27
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4327469, y: 0.006485421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wil_archer_bow_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 145
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.69359994, y: 0.006485421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wil_archer_bow_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 145
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6513194, y: 0.006676169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wil_archer_bow_12
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 145
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6643645, y: 0.011640108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wil_archer_bow_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 28
+        height: 39
+      alignment: 9
+      pivot: {x: 0.62159616, y: 0.0000001956255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wil_archer_bow_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 98
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7326538, y: 0.00000019073487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wil_archer_bow_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 98
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.583226, y: 0.00000019073487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wil_archer_bow_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 98
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5810639, y: 0.00000021192763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wil_archer_bow_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 98
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6180292, y: 0.0000002179827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_cheer1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 54
+        width: 42
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6539714, y: 0.031277426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_cheer2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 54
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6543213, y: 0.012670618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a_cheer3
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 54
+        width: 38
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6392372, y: 0.029688263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
